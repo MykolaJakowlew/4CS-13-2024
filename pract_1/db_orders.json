@@ -1,0 +1,17 @@
+[
+  {
+    "from": "address-1",
+    "to": "address-2",
+    "login": "l2"
+  },
+  {
+    "from": "address-1",
+    "to": "address-3",
+    "login": "l2"
+  },
+  {
+    "from": "address-1",
+    "to": "address-3",
+    "login": "l1"
+  }
+]
